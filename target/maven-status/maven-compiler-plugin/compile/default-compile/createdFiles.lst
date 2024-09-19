@@ -1,0 +1,7 @@
+com/example/my_todo_app/controller/TaskController.class
+com/example/my_todo_app/MyTodoAppApplication.class
+com/example/my_todo_app/model/Task.class
+com/example/my_todo_app/repository/TaskRepository.class
+com/example/my_todo_app/repository/UserRepository.class
+com/example/my_todo_app/model/User.class
+com/example/my_todo_app/service/TaskService.class

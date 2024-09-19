@@ -1,0 +1,15 @@
+{
+  "java.testMethod": [
+    "mvn",
+    "test",
+    "-Dtest=${class}#${method}"
+  ],
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.testClass": [
+      "mvn",
+      "test",
+      "-Dtest=${class}#${method}"
+]
+}
+
